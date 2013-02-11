@@ -1,0 +1,13 @@
+# template.clj
+
+Simple Templating Engine for Clojure
+
+## Usage
+
+FIXME: write
+
+## License
+
+Copyright (C) 2012 David Litvak
+
+Distributed under the Eclipse Public License, the same as Clojure.
